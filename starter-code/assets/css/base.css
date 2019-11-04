@@ -14,7 +14,7 @@ html, body{
 body {
     line-height: 1;
     -webkit-text-size-adjust: none;
-    background: #fff;
+    background: rgb(75, 54, 54);
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 19pt;
 	font-weight: 300;

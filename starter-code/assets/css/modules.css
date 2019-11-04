@@ -185,3 +185,11 @@ input, select, textarea {
 		width: 1400px;
 	} */
 
+video{
+	height: 50%;
+	width: 75%;
+}
+body, main, div, section{
+	background: rgb(75, 54, 54);
+
+}
